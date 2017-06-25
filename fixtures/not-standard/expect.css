@@ -1,0 +1,4 @@
+a {
+  background-image: url("b.png?___inline");
+  border-image: url(c.png?__Inline);
+}
