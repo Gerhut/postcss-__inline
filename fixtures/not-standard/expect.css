@@ -1,4 +1,8 @@
 a {
-  background-image: url("b.png?___inline");
-  border-image: url(c.png?__Inline);
+  background-image: url("icon.png?___inline");
+  border-image: url(icon.png?__Inline);
+}
+
+a {
+  background: black url('icon.png?__inline', );
 }
